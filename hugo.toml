@@ -161,6 +161,27 @@ copyright = "Copyright © 2008–2021, Steve Francia and the Hugo Authors; All r
 
 [languages]
 
+  [languages.de]
+    
+    languageName = "Deutsch"
+
+    [languages.de.menu]
+      
+      [[languages.de.menu.main]]
+        name = "Kontakt"  # TODO: Bessere Wörter
+        weight = 1
+        url = "/"
+
+      [[languages.de.menu.main]]
+        name = "Posts"
+        weight = 2
+        url = "posts/"
+      
+      [[languages.de.menu.main]]
+        name = "Über Geekfem"
+        weight = 3
+        url = "about/"
+
   [languages.en]
   
     languageName = "English"
@@ -178,27 +199,6 @@ copyright = "Copyright © 2008–2021, Steve Francia and the Hugo Authors; All r
         url = "posts/"
       
       [[languages.en.menu.main]]
-        name = "Contact"
-        weight = 3
-        url = "contact/"
-
-  [languages.de]
-    
-    languageName = "Deutsch"
-
-    [languages.de.menu]
-      
-      [[languages.de.menu.main]]
-        name = "Aboutuaedni"  # TODO: Bessere Wörter
-        weight = 1
-        url = "/"
-
-      [[languages.de.menu.main]]
-        name = "Posts"
-        weight = 2
-        url = "posts/"
-      
-      [[languages.de.menu.main]]
         name = "Contact"
         weight = 3
         url = "contact/"
