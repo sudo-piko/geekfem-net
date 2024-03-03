@@ -3,6 +3,8 @@ languageCode = 'de-de'
 theme = "color-your-world"
 title = 'Geekfem'
 
+defaultContentLanguage = 'de'
+defaultContentLanguageInSubdir = true
 
 # the following is from https://themes.gohugo.io/themes/hugo-theme-color-your-world/
 [params.style]
@@ -164,7 +166,7 @@ copyright = "Copyright © 2008–2021, Steve Francia and the Hugo Authors; All r
   [languages.de]
     
     languageName = "Deutsch"
-
+    languageCode = 'de'
     [languages.de.menu]
       
       [[languages.de.menu.main]]
@@ -185,7 +187,7 @@ copyright = "Copyright © 2008–2021, Steve Francia and the Hugo Authors; All r
   [languages.en]
   
     languageName = "English"
-
+    disabled = true
     [languages.en.menu]
 
       [[languages.en.menu.main]]
