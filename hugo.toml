@@ -168,7 +168,7 @@ copyright = "Copyright © 2008–2021, Steve Francia and the Hugo Authors; All r
     [languages.de.menu]
       
       [[languages.de.menu.main]]
-        name = "Kontakt"  # TODO: Bessere Wörter
+        name = "Kontakt"
         weight = 1
         url = "/"
 
