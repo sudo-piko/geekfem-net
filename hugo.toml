@@ -105,7 +105,7 @@ copyright = "Copyright © 2008–2021, Steve Francia and the Hugo Authors; All r
   # Footer text
   # Each value will become a paragraph
   # Keep it as an array
-  footerText = [ "Generated with [Hugo](https://gohugo.io) using the [Color Your World](https://gitlab.com/rmaguiar/hugo-theme-color-your-world) theme." ]
+  footerText = [ "Generated with [Hugo](https://gohugo.io) using the [Color Your World](https://gitlab.com/rmaguiar/hugo-theme-color-your-world) theme. You can change the colors of this website (also dark/bright mode) by clicking on the icons below." ]
   
   # Site cover, for Open Graph, Twitter Cards and Schema.org
   # It will be used if the current page doesn't have an image cover
