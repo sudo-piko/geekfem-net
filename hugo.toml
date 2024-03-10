@@ -104,8 +104,9 @@ copyright = "Copyright Hugo © 2008–2021, Steve Francia and the Hugo Authors; 
   # It will be used if the current page doesn't have an image cover
   # File will be picked from the "assets" directory
   # Comment the lines if you don't want to use it
-  cover     = "img/cover.jpg"
-  coverAlt  = "A placeholder that doesn't deserve to be described."
+  # TODO: Add Logo
+  # cover     = "img/cover.jpg"
+  # coverAlt  = "A placeholder that doesn't deserve to be described."
   
   # Shows a message in the footer about JavaScript being disabled
   # The default is false
@@ -117,51 +118,51 @@ copyright = "Copyright Hugo © 2008–2021, Steve Francia and the Hugo Authors; 
   # It can be used to reduce repetition
   # There's no default value
   imgPath = "img"
-  
+
   # Default classes for markup image 
   # Modifies the default behavior of images placed via markdown
   # Can also be set PER PAGE via front matter
   # Available classes are: border and borderless
   # There's no default value
   markupImgClass = "borderless"
-  
+
   # This will append a separator (of your choice) along the site title to your <title>
   # ie.: | ❚ - – — • ⚫
   # You can disabled it PER PAGE by using "disableTitleSeparator" at front
   # matter or disable it entirely by commenting the line below
   titleSeparator = "|"
-  
-  [params.search]
-  
-    # Enable search form (at the post list)
-    # The default value is false
-    enable = true
-  
-    # Limit search results
-    # The default value is 30
-    maxResults = 15
-    
-    # Limit seach field input and pattern matching
-    minLength = 2   # Default is 3
-    maxLength = 42  # Default is 32
-    
-    # Optional placeholder for search field
-    placeholder = "ie.: lorem ipsum"
-    
-    # Stop word filter list
-    # Can also be set PER PAGE via front matter
-    # There's no default value
-    stopWords = [ "a", "an", "and", "in", "the", "to", "was", "were", "with" ]
+
+#  [params.search]
+#  
+#    # Enable search form (at the post list)
+#    # The default value is false
+#    enable = true
+#  
+#    # Limit search results
+#    # The default value is 30
+#    maxResults = 15
+#    
+#    # Limit seach field input and pattern matching
+#    minLength = 2   # Default is 3
+#    maxLength = 42  # Default is 32
+#    
+#    # Optional placeholder for search field
+#    placeholder = "ie.: lorem ipsum"
+#    
+#    # Stop word filter list
+#    # Can also be set PER PAGE via front matter
+#    # There's no default value
+#    stopWords = [ "a", "an", "and", "in", "the", "to", "was", "were", "with" ]
 
 
 [languages]
 
   [languages.de]
-    
+
     languageName = "Deutsch"
     languageCode = 'de'
     [languages.de.menu]
-      
+
       [[languages.de.menu.main]]
         name = "Kontakt"
         weight = 1
@@ -171,30 +172,9 @@ copyright = "Copyright Hugo © 2008–2021, Steve Francia and the Hugo Authors; 
 #        name = "Posts"
 #        weight = 2
 #        url = "posts/"
-      
+
       [[languages.de.menu.main]]
         name = "Über Geekfem"
         weight = 3
         url = "about/"
-
-  [languages.en]
-  
-    languageName = "English"
-    disabled = true
-    [languages.en.menu]
-
-      [[languages.en.menu.main]]
-        name = "About"
-        weight = 1
-        url = "/"
-
-      [[languages.en.menu.main]]
-        name = "Posts"
-        weight = 2
-        url = "posts/"
-      
-      [[languages.en.menu.main]]
-        name = "Contact"
-        weight = 3
-        url = "contact/"
 
