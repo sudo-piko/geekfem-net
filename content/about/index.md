@@ -2,7 +2,7 @@
 title                 : "Über Geekfem"
 disableTitleSeparator : true
 ---
-Hier erfährst du, was Geekfem allgemein macht und wie du auch mitmachen kannst. 
+Hier erfährst du, was Geekfem allgemein macht und was uns ausmacht. 
 
 ### Was ist Geekfem?
 
@@ -11,17 +11,9 @@ Geekfem ist ein Raum für Technik-interessierte FLINTA Personen. Wir sind eine s
 
 ### Was macht Geekfem?
 
-Wir treffen uns einmal im Monat in den Räumlichkeiten des Hamburger Chaos Computer Clubs (CCC). Wo genau, erfährst du unter [Kontakt](/kontakt). Dort stellen wir gemeinsam Projekte auf die Beine, halten Vorträge und Diskussionen und machen generell coole Dinge. Das Geekfem-Treffen ist immer am dritten Donnerstag im Monat um 19:00 Uhr. 
-
-Beispiele für vergangene Projekte: 
-https://geekfem.net/themen/
+Wir treffen uns einmal im Monat in den Räumlichkeiten des Hamburger Chaos Computer Clubs (CCC). Wo genau, erfährst du unter [Kontakt](/). Dort stellen wir gemeinsam Projekte auf die Beine, halten Vorträge und Diskussionen und machen generell coole Dinge. Das Geekfem-Treffen ist immer am dritten Donnerstag im Monat um 19:00 Uhr. 
 
 
 ### Wer ist bei Geekfem willkommen? 
 
-Bei den Geekfem-Treffen sind FLINTA-Menschen willkommen: Frauen, Lesben, Inter-, Nichtbinäre, Trans- und Agender-Menschen. Bei Projekten und Treffen außerhalb sind auch Cis-Männer willkommen.
-
-
-### Wie kann ich mitmachen?
-
-Melde dich auf der Mailingliste an, dann bist du auf dem Laufenden. Dazu reicht es eine leere Mail an geekfem-subscribe@lists.hamburg.ccc.de zu schicken.
+Bei den Geekfem-Treffen sind FLINTA-Menschen willkommen: Wir sind offen für alle Frauen, Lesben, intersex, nonbinary, trans und agender Personen. Bei einigen Projekten und Treffen außerhalb sind auch Cis-Männer willkommen.
