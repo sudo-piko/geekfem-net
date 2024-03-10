@@ -1,5 +1,5 @@
 ---
-title                 : "Welcome"
+title                 : "Kontakt"
 disableTitleSeparator : true
 ---
 
