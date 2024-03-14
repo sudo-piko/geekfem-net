@@ -168,10 +168,10 @@ copyright = "Copyright Hugo © 2008–2021, Steve Francia and the Hugo Authors; 
         weight = 1
         url = "/"
 
-#      [[languages.de.menu.main]]
-#        name = "Posts"
-#        weight = 2
-#        url = "posts/"
+      [[languages.de.menu.main]]
+        name = "Posts"
+        weight = 2
+        url = "posts/"
 
       [[languages.de.menu.main]]
         name = "Über Geekfem"
