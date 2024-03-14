@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Gastvortrag Am 28.02.2019"
+date: 2019-02-19T21:32:02+01:00
+---
+
+### ACHTUNG: DIESES TREFFEN FINDET AN EINEM ANDEREN ORT STATT
+
+Das Treffen im Februar findet am Donnerstag den 28.02.2019 ab 19 Uhr
+in den Räumen von inoio (Kampstraße 15 in der Schanze bei inoio
+klingeln) statt, da die Räume des CCCHH wegen des Umbaus und der
+Vergrößerung des Z9 bis auf weiteres geschlossen sind.
+
+Karolin Varer wird uns an diesem Treffen besuchen und eine Vortrag
+bzw. Workshop geben mit dem Thema:
+
+#### Bau einer Steuerung für Hochleistungs-LEDs: Hardware-Design & Programmierung
+
+Es gibt eine kleine Einführung in KiCad und Tipps wie man an das
+design Analoger Schaltungen herangehen kann. Wo zum Beispiel bekommt
+man eigentlich Bauteile her und was für Werkzeug braucht man. Es
+werden verschiedene Bauteile (Relais, Optokoppler, Mosfet, SMD vs
+Durcksteck) vorgestellt.
+
+In der Steuerungsschaltung werden verschiedene Techniken gezeigt wie
+man mit hohen Spannungen und Strömen arbeiten kann.
+
+Auf der Softwareseite werden Mikrocontroller vorgestellt die es
+einfach machen WLAN zu benutzen und es wird erklärt wie man mit
+Software LEDs dimmen kann.
+
+Ihr wollt mitmachen, könnt aber nicht zum Treffen kommen? Subscribt
+euch auf unsere Mailingliste und bleibt auf dem Laufenden: eine leere
+Mail an geekfem-subscribe@hamburg.ccc.de genügt.
+
+Wir freuen uns auf euch :)
