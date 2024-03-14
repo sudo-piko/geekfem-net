@@ -1,10 +1,10 @@
 baseURL = 'https://geekfem.net/'
-languageCode = 'de-de'
+#languageCode = 'de-de'
 theme = "color-your-world"
 title = 'Geekfem'
 
 defaultContentLanguage = 'de'
-defaultContentLanguageInSubdir = true
+# defaultContentLanguageInSubdir = true
 
 # the following is from https://themes.gohugo.io/themes/hugo-theme-color-your-world/
 [params.style]
