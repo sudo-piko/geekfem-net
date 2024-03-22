@@ -16,12 +16,12 @@ Weitere Informationen - auch für mobilitätseingeschränkte Personen - findet i
 
 ### Wie erreicht ihr uns?
 
-In Zukunft könnt ihr uns eine E-Mail schreiben.
+Ihr erreicht uns auf [Mastodon](https://chaos.social/@geekfem). Dort könnt ihr uns Nachrichten schreiben.
 
 
 ### Wie kommt ihr auf die Mailingliste?
 
-Einfach eine leere [Mail](mailto:geekfem-subscribe@lists.hamburg.ccc.de) an Geekfem schreiben.
+Einfach eine leere Mail an geekfem-subscribe@lists.hamburg.ccc.de schicken.
 
 
 ### Wann treffen wir uns?
