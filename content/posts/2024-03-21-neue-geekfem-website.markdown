@@ -9,7 +9,7 @@ Liebe geekfem friends, wir haben eine neue Webseite. Die vergangenen Themen blei
 Komm vorbei und gestalte mit, was in der nächsten Zeit passieren soll!
 
 #### aktuelle Themen
-* Python-Programmierkurs für Anfängerinnen
+* [Python Kurs für für Absolute Anfänger\*innen](https://ithea.de/pykurs-d/)
 
 #### Themen 2020 u.a.
 * Beteiligung am Easterhegg 2020 in Hamburg
@@ -34,7 +34,7 @@ Komm vorbei und gestalte mit, was in der nächsten Zeit passieren soll!
 * Vernetzungstrefen der in Hamburg ansässigen Gruppen von an Technik interessierten Frauen\* im Mai
 
 #### Themen 2016 u.a.
-* am 21. April -  Big Data (commons) [Vortrag zum Thema Big Data]({{root_url}} /2016/04/21/big-data.html)
+* am 21. April -  Big Data (commons) [Vortrag zum Thema Big Data
 * Künstliche Intelligenz
 * Programmierübungen zur Mustererkennung und Regression in einer Skriptsprache (33c3)
 * Feminismus - eine Kurzusammenfassung und anschliessende Diskussion
@@ -42,14 +42,5 @@ Komm vorbei und gestalte mit, was in der nächsten Zeit passieren soll!
 * 33C3 Diversity Outreach
 * 33C3 Haecksen Raum
 
-### Wo treffen wir uns?
-CCC Hamburg @ Frappant (Viktoriakaserne)
-Zeiseweg 9
-22767 Hamburg
 
-### Wann ist Geekfem?
-Geekfem findet bei Bedarf statt. Man findet uns häufiger am dritten Dienstag des Monats im CCCHH ab 19 Uhr. Frag aber gerne vorher auf unserer Mailingliste nach, ob auch jemand da ist. Abweichende und zusätzliche Treffen diskutieren wir vor allem auf unserer Mailingliste geekfem@lists.hamburg.ccc.de. Meld dich dort an, dann bist du auf dem Laufenden. Dazu reicht es eine leere Mail an geekfem-subscribe@lists.hamburg.ccc.de zu schreiben.
-
-Komm einfach mal vorbei in den Räumlichkeiten des CCC-HH
-[http://www.hamburg.ccc.de/](http://www.hamburg.ccc.de/)
 
