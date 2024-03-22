@@ -7,11 +7,11 @@ disableTitleSeparator : true
 
 Wir treffen uns im Clubraum des CCCHH im Gebäude der FUX eG (Viktoriakaserne):
 * Zeiseweg 9
-* 22765 Hamburg-Altona.
+* 22765 Hamburg-Altona
 
 **Aktuell gibt es keine Klingel!** 
 
-Weitere Informationen - auch für mobilitätseingeschränkte Personen - findet ihr beim [CCCHH](https://hamburg.ccc.de/#kontakt).
+Weitere Informationen – auch für mobilitätseingeschränkte Personen – findet ihr beim [CCCHH](https://hamburg.ccc.de/#kontakt).
 
 
 ### Wie erreicht ihr uns?
