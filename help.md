@@ -3,7 +3,8 @@
 https://gohugo.io/getting-started/quick-start/#step-2-create-a-new-site
 
 
-# New post
+# Neuer Post auf dem Blog
+Blogposts sollen fürderhin nicht für die normalen Terminankündigungen verwendet werden, sondern nur noch für Inhaltliches. Der Termin kann auf "Kontakt" gesetzt werden.
 
 ```
 hugo new content posts/my-first-post.md
