@@ -11,12 +11,7 @@ Geekfem ist ein Raum für technikinteressierte FLINTA Personen. Wir sind eine se
 
 ### Was macht Geekfem?
 
-Wir treffen uns einmal im Monat in den Räumlichkeiten des Hamburger Chaos Computer Clubs (CCC). Wo genau, erfährst du unter [Kontakt](/). Dort stellen wir gemeinsam Projekte auf die Beine, halten Vorträge und Diskussionen und machen generell coole Dinge. Das Geekfem-Treffen ist immer am dritten Donnerstag im Monat um 19:00 Uhr. 
-
-Beispiele für vergangene Projekte: 
-- [Python Kurs für für Absolute Anfänger\*innen](https://ithea.de/pykurs-d/)
-- [Selbstgebauter mobiler Feinstaubsensor](/2019-03-25-projekt-18-mobiler-feinstaubsensor-selbst-bauen)
-- [Filmvorführung: Debugging the Gender Gap](/2017-09-23-debugging-the-gender-gap)
+Wir treffen uns einmal im Monat in den Räumlichkeiten des Hamburger Chaos Computer Clubs (CCC). Wo genau, erfährst du unter [Kontakt](/). Dort stellen wir gemeinsam Projekte auf die Beine, halten Vorträge und Diskussionen und machen generell coole Dinge. Das Geekfem-Treffen ist immer am dritten Donnerstag im Monat um 19:00 Uhr. Beispiele für vergangene Projekte findet ihr unter Posts.  
 
 
 ### Wer ist bei Geekfem willkommen? 
